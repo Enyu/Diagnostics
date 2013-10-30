@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticsTests", "DiagnosticsTests\DiagnosticsTests.csproj", "{F25C0EAF-2B0B-4A71-8FFC-439A0B3CE737}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{82911637-565D-468A-BAEC-A76941178AA7}"
+	ProjectSection(SolutionItems) = preProject
+		DiagnosticsTests.vsmdi = DiagnosticsTests.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DiagnosticsTests.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F25C0EAF-2B0B-4A71-8FFC-439A0B3CE737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25C0EAF-2B0B-4A71-8FFC-439A0B3CE737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25C0EAF-2B0B-4A71-8FFC-439A0B3CE737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25C0EAF-2B0B-4A71-8FFC-439A0B3CE737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
